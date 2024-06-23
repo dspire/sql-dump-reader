@@ -1,0 +1,15 @@
+.idea
+.vscode
+vendor
+composer.phar
+composer.lock
+tmp/
+
+*.log
+*.md
+
+
+# struct, not track
+storage/logs/
+storage/
+bin/
